@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Suraj 👋</h1>
+<h3 align="center">Web Developer | API Designer | Backend Engineer</h3>
 
-<!--
-**surajsuwa/surajsuwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I build scalable backend systems, well-structured APIs, and modern web applications.
+</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend-focused developer with experience in **Laravel, React, and API design**
+- Passionate about building **secure, scalable, and maintainable systems**
+- Interested in **clean architecture, database design, and performance optimization**
+- Always learning and improving in **modern web development**
+
+## Tech Stack
+
+- **Backend:** Laravel, PHP
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, 
+
+## What I Work On
+
+- REST API development
+- Backend architecture
+- Authentication and authorization
+- Dashboard and admin panel development
+- Database design and optimization
+
+## Contact
+
