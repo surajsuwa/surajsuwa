@@ -90,13 +90,9 @@ A reference repository of Laravel best practices.
 
 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-
-`Git` `GitHub`
-
 <img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
 
-Git GitHub Postman Docker
+`Git` `GitHub` `Postman` `Docker`
 
 ---
 
