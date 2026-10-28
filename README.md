@@ -110,12 +110,6 @@ A reference repository of Laravel best practices.
 
 ---
 
-## 🤝 Connect
-
-<a href="mailto:surajsuwa@gmail.com"><img src="https://img.shields.io/badge/Email-surajsuwa%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" /></a>
-<!-- LinkedIn badge: uncomment and replace YOUR-LINKEDIN-HANDLE with your real handle.
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" /></a>
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/surajsuwa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajsuwa@gmail.com) 
