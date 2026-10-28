@@ -97,9 +97,7 @@ A reference repository of Laravel best practices.
 <br/><br/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsuwa&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Top languages" />
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=surajsuwa&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
 
 </div>
 
