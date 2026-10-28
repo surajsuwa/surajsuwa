@@ -105,11 +105,7 @@ A reference repository of Laravel best practices.
 
 ---
 
-## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajsuwa&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
-
----
 
 
 ## 🌐 Socials:
