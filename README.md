@@ -85,6 +85,40 @@ A reference repository of Laravel best practices.
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=php,js,html,css" alt="Languages" />
+
+`PHP` `JavaScript` `HTML5` `CSS3`
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
+
+`React`
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=laravel" alt="Backend" />
+
+`Laravel`
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database" />
+
+`MySQL` `PostgreSQL`
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github" alt="Dev tools" />
+
+`Git` `GitHub`
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="left">
