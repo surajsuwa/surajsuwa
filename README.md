@@ -87,7 +87,7 @@ A reference repository of Laravel best practices.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=surajsuwa&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="GitHub stats" />
 
