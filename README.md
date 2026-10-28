@@ -23,7 +23,7 @@
 
 ---
 
-## 🧑‍💻 Who I Am
+## 🧑‍💻 About Me
 
 ```typescript
 const suraj = {
