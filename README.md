@@ -72,12 +72,13 @@ A reference repository of Laravel best practices.
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react" alt="React" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" alt="React" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /> &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui" width="48" height="48" />
 
-`React` &nbsp; `Tailwind CSS` &nbsp; `Bootstrap` &nbsp; `shadcn/ui`
+`React` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Bootstrap` &nbsp; `shadcn/ui`
 
 **Backend**
 
@@ -91,11 +92,15 @@ A reference repository of Laravel best practices.
 
 `MySQL` `PostgreSQL`
 
-**Dev Tools**
+**Dev Tools & CI/CD**
 
-<img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
 
-`Git` `GitHub` `Postman` `Docker`
+`Git` &nbsp; `GitHub` &nbsp; `Postman` &nbsp; `Docker` &nbsp; `GitHub Actions (CI/CD)`
 
 ---
 
