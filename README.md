@@ -72,9 +72,12 @@ A reference repository of Laravel best practices.
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="React, Tailwind CSS, Bootstrap" /> <img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /> &nbsp;
+<img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui" width="48" height="48" />
 
-`React` `Tailwind CSS` `Bootstrap` `shadcn/ui`
+`React` &nbsp; `Tailwind CSS` &nbsp; `Bootstrap` &nbsp; `shadcn/ui`
 
 **Backend**
 
