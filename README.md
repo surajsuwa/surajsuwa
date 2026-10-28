@@ -83,37 +83,35 @@ A reference repository of Laravel best practices.
 
 <img src="https://skillicons.dev/icons?i=git,github" alt="Dev tools" />
 
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=php,js,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
 
 `PHP` `JavaScript` `HTML5` `CSS3`
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
 
 `React`
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=laravel" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
 
 `Laravel`
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
 
 `MySQL` `PostgreSQL`
 
 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github" alt="Dev tools" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 
 `Git` `GitHub`
 
